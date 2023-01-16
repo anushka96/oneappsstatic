@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Static Webapp deployment on the main production app</h1>
+
+<p>Static Webapp deployment on the main production app!!!</p>
+
+</body>
+</html>
+
